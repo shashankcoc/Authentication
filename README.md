@@ -10,8 +10,9 @@ This system is designed in a way to prevent hackers to hack into our Database an
 1.Its very simple first you have to Register in our database
 2.with those credential you can easily Login.
 
-# To open to your local system 
-Install node_modules using express and run localhost:3000/
+# To run to your local system 
+1. npm install
+2. run server localhost:3000/
 
 # Added Some Screenshots of the project
 ![](images/register.png)
